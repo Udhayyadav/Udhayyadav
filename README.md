@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udhayyadav&label=Profile%20views&color=0e75b6&style=flat" alt="udhayyadav" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning Project**
 
-- 🌱 I’m currently learning **React & Backend**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **AI project's**
 
