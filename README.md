@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udhayyadav&label=Profile%20views&color=0e75b6&style=flat" alt="udhayyadav" /> </p>
 
-- 🔭 I’m currently working on **Blog App**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **React & Backend**
 
